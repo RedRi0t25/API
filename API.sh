@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# GET /users/defunkt
+# GET /users/RedRi0t25
 
 #curl https://api.github.com/zen
 #curl https://api.github.com/users/RedRi0t25
